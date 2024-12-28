@@ -9,5 +9,5 @@ if __name__ == '__main__':
     s1 = Student("Arijit", 1, 100)
     s2 = Student("Anamika", 2, 100)
 
-    print(Student.getNumberOfStudents())
+    
     # print(c.conjugate())
